@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <!-- onLoginClick -->
-    <string name="user_name">아이디</string>
-    <string name="password">비밀번호</string>
-    <string name="login">로그인</string>
-    <string name="login_in_browser">브라우저로 로그인</string>
-    <string name="oauth_tip">기본 브라우저로 로그인(OAuth)</string>
-    <string name="user_name_warning">아이디가 올바르지 않습니다!</string>
-    <string name="password_warning">비밀번호가 올바르지 않습니다!</string>
+    <string name="user_name">Nome utente</string>
+    <string name="password">Password</string>
+    <string name="login">Accesso</string>
+    <string name="login_in_browser">Accesso tramite browser</string>
+    <string name="oauth_tip">Accesso tramite browser predefinito(OAuth)</string>
+    <string name="user_name_warning">Nome utente non valido!</string>
+    <string name="password_warning">Password non valida!</string>
     <!-- menu -->
-    <string name="profile">프로필</string>
-    <string name="notifications">알림</string>
-    <string name="news">소식</string>
-    <string name="issues">이슈</string>
-    <string name="repositories">리포지토리</string>
-    <string name="owned">소유</string>
+    <string name="profile">Profilo</string>
+    <string name="notifications">Notifiche</string>
+    <string name="news">Notizie</string>
+    <string name="issues">Problemi</string>
+    <string name="repositories">Repositories</string>
+    <string name="owned">Proprietario</string>
     <string name="starred">스타</string>
     <string name="trending">유행</string>
     <string name="explore">탐색</string>
